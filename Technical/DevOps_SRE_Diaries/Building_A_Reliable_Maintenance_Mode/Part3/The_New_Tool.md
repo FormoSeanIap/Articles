@@ -1,3 +1,5 @@
+([Medium Article](https://philosophyotaku.medium.com/devops-sre-diaries-building-a-reliable-maintenance-mode-part-3-the-new-tool-ccd8c70fa0f9))
+
 In [the previous article](../Part2/The_Legacy_System.md), we analyzed the legacy maintenance mode system—how it worked, why it became difficult to manage, and what problems it introduced over time.
 
 Those lessons paved the way for a complete redesign.

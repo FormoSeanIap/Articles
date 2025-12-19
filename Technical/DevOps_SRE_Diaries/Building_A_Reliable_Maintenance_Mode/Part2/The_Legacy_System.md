@@ -1,3 +1,5 @@
+([Medium Article](https://philosophyotaku.medium.com/devops-sre-diaries-building-a-reliable-maintenance-mode-part-2-introduction-and-requirements-df5036ef9298))
+
 In the [previous article](../Part1/Introduction_and_Requirements.md), we introduced the concept of maintenance mode—why it is necessary, the requirements it must fulfill, and the key functions a reliable solution should provide.
 With that foundation established, we can now take a closer look at how our company originally approached this problem.
 

@@ -1,3 +1,5 @@
+([Medium Article](https://philosophyotaku.medium.com/devops-sre-diaries-building-a-reliable-maintenance-mode-part-1-introduction-and-requirements-cc0bbeac2938))
+
 ![Figure 1: Maintenance Mode](./Figure1.png)
 *Source: [Freepik](https://www.freepik.com/search?format=search&last_filter=query&last_value=maintenance+mode&query=maintenance+mode)*
 

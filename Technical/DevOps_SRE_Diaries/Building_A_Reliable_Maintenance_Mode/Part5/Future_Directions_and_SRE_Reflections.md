@@ -1,3 +1,5 @@
+([Medium Article](https://philosophyotaku.medium.com/devops-sre-diaries-building-a-reliable-maintenance-mode-part-5-future-directions-and-sre-cc462be53fab))
+
 In the [previous article](../Part4/Challenges_Behind_The_Tool.md), we looked at the messy side of building the maintenance mode tool:
 - getting lost in legacy DNS,
 - struggling with WAF’s token-based API model, and

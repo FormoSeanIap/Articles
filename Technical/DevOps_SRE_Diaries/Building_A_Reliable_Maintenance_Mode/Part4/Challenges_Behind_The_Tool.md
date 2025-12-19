@@ -1,3 +1,5 @@
+([Medium Article](https://philosophyotaku.medium.com/devops-sre-diaries-building-a-reliable-maintenance-mode-part-4-challenges-behind-the-tool-3c7192455549))
+
 ![source: https://www.freepik.com/free-vector/construction-landing-page_4455395.htm#fromView=search&page=1&position=0&uuid=5ed236a5-e6f6-4dd8-8889-cdb1e118547a&query=maintenance+mode](./Figure1.png)
 *source: [Freepik](https://www.freepik.com/free-vector/construction-landing-page_4455395.htm#fromView=search&page=1&position=0&uuid=5ed236a5-e6f6-4dd8-8889-cdb1e118547a&query=maintenance+mode)*
 
