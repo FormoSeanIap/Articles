@@ -1,3 +1,5 @@
+# 《海盜戰記》心得(一) - 在沒有敵人的世界中尋找人生的意義
+
 ![](./image.png)
 *Source: https://www.europosters.eu/posters/vinland-saga-v195909*
 

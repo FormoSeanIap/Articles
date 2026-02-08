@@ -1,3 +1,5 @@
+# 《海盜戰記》心得(二) - 零暴力的極限、愛與信仰的反思
+
 ![](./image.png)
 *Source: https://www.europosters.eu/posters/vinland-saga-v195909*
 
