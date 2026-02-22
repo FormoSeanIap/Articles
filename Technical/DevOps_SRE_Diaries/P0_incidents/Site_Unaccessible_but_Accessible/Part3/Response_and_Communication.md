@@ -1,5 +1,10 @@
 # Site Unaccessible but Accessible (Part 3): Response and Communication
 
+![Figure 1: Website Down Alert](./Figure1.jpg)
+*Source: [Freepik](https://www.freepik.com/free-vector/gradient-pop-up-set-with-different-purposes_18990425.htm#fromView=keyword&page=1&position=2&uuid=d6b2a079-5764-4675-8ccd-3f987c411419&query=Website+down)*
+
+[Part 2: DNS Background and Root Cause](../Part2/DNS_Background_and_Root_Cause.md)
+
 # Initial Response
 
 Once we understood what happened, the fix sounded simple: ask the customer to change the NS record back.

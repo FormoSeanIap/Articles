@@ -1,5 +1,10 @@
 # Site Unaccessible but Accessible (Part 2): DNS Background and Root Cause
 
+![Figure 1: Website Down Alert](./Figure1.jpg)
+*Source: [Freepik](https://www.freepik.com/free-vector/gradient-pop-up-set-with-different-purposes_18990425.htm#fromView=keyword&page=1&position=2&uuid=d6b2a079-5764-4675-8ccd-3f987c411419&query=Website+down)*
+
+[Part 1: Incident Alarm](../Part1/Incident_Alarm.md)
+
 # DNS Primer
 
 Before explaining the root cause, we need a basic understanding of DNS.
@@ -27,6 +32,8 @@ This is where the Name Server (NS) record comes in.
 
 # Name Server Records
 
+![Figure 2: Name Server Records](./Figure2.png)
+
 A domain can have multiple DNS providers that each host their own routing rules.
 The domain owner decides which provider is authoritative by setting NS records at the domain registrar.
 If the NS record points to "Name Server 1," then those DNS rules are used.
@@ -36,6 +43,8 @@ Author's aside: I only learned this properly after the incident.
 One benefit of P0 incidents is that they force you to fill in painful knowledge gaps.
 
 # Root Cause
+
+![Figure 3: DNS Propagation](./Figure3.png)
 
 In this project, the customer bought the domain and delegated DNS management to us by pointing their NS records to our DNS service.
 The root cause was simple: the NS record was changed.
